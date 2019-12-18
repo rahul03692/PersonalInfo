@@ -1,0 +1,25 @@
+body{
+   background-color:powderblue;
+ }
+hr{
+  width:10%;
+  border-style:none;
+  border-top-style:dotted;
+  border-color:black;
+  border-width: 5px;
+}
+/*id selector*/
+#name{
+  color:black;
+}
+/*class selector*/
+.clg{
+  color:blue;
+}
+/*.myimg{
+  border-radius:100%;
+}*/
+/*tag selector*/
+h3{
+  color:grey;
+}
